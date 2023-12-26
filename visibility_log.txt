@@ -1,0 +1,2 @@
+Visibility: 10000.00 meters, Condition: Good Visibility, Timestamp: 2023-12-27 00:15:01
+Visibility: 10000.00 meters, Condition: Good Visibility, Timestamp: 2023-12-27 00:15:31

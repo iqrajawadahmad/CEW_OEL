@@ -1,0 +1,12 @@
+Timestamp: 2023-12-27 00:15:01
+Sunset: 2023-12-27 17:50:09
+Sunrise: 2023-12-27 07:14:31
+Timezone: +0500 PKT
+Visibility: 10000.00 meters
+
+Timestamp: 2023-12-27 00:15:31
+Sunset: 2023-12-27 17:50:09
+Sunrise: 2023-12-27 07:14:31
+Timezone: +0500 PKT
+Visibility: 10000.00 meters
+
