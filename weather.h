@@ -1,4 +1,4 @@
-// weather.h
+/ weather.h
 
 #ifndef WEATHER_H
 #define WEATHER_H
@@ -34,4 +34,3 @@ void print_last_weather_data(const char *log_filename, int num_lines, const char
 void get_console_dimensions(int *rows, int *cols);
 
 #endif
-
