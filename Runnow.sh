@@ -12,5 +12,5 @@ gcc fetchtemp.o  visibiltytemp.o maintemp.o  -o compiledweather -lcurl -ljson-c
 # Optionally, clean up the compiled object files
 rm fetchtemp.o visibiltytemp.o maintemp.o
 
-(crontab -l ; echo "0 */3 * * * $(Runnow.sh)/run_program.sh") | crontab -
+(crontab -l ; echo "0 */3 * * * $(pwd)/Runnow.sh") | crontab -
 
